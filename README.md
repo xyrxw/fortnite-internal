@@ -1,4 +1,5 @@
 # fortnite-internal
+no mine, (credits to: github.com/panek033)
 
 # Currently I'm selling most of my sources:
   - Fortnite External Source
